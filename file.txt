@@ -22,4 +22,4 @@ git branch -> list branches
 git branch <branch_name> -> Create new branch
 git switch <branch_name>
 
-
+git merge <branch name>
