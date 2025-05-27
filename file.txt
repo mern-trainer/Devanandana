@@ -1,0 +1,25 @@
+HELLO WORLD!
+
+vs code -> text editor
+git -> Version Control
+github -> Cloud storage -> gitlab, bitbucket
+
+commands
+
+git init -> initialize git repo. (one time in a project)
+
+git config --global user.name "Devanandana" (one time)
+git config --global user.email "sample@gmail.com" (one time)
+
+git add . -> stage changes
+git add <file> <file> <file> -> add specific files
+git commit -m "<message>"
+
+git remote add <remote_name> <remote_url> -> add a remote url
+git push <remote_name> <branch_name> -> push committed changes to github.
+
+git branch -> list branches
+git branch <branch_name> -> Create new branch
+git switch <branch_name>
+
+
